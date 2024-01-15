@@ -12,5 +12,5 @@ This second notebook simulates beam behaviour of the Timoshenko beam. Two proble
 To execute the code, clone or download the notebooks and run them, preverably on a GPU.
 Enjoy reading.
 
-By group BEAM 2,
+By group BEAM 2:
 Jur Bokkers, Hidde Drost, Bastiaan Kurstjens, Amco de Jong and Daan Exterkate. 
