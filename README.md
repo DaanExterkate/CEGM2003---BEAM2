@@ -7,7 +7,7 @@ The project uses Physics Informed Neural Networks (PINN's) to simulate dynamic b
 In this first file .....
 
 2. Timoshenko Beam.
-This second notebook simulates beam behaviour of the Timoshenko beam. Two problems are distinguished, explained in a separate sections. Section 2.1 solves the so-called Timoshenko forward problem. In this problem a PINN is build predicting %\theta% and w given boundary and initial conditions. Section 2.2 deals with the Timoshenko Inverse problem. In this problem a PINN is build predicting the force function g(x,t) alongside %\theta% and w given observations of %\theta% and w.
+This second notebook simulates beam behaviour of the Timoshenko beam. Two problems are distinguished, explained in a separate sections. Section 2.1 solves the so-called Timoshenko forward problem. In this problem a PINN is build predicting $\theta$ and w given boundary and initial conditions. Section 2.2 deals with the Timoshenko Inverse problem. In this problem a PINN is build predicting the force function g(x,t) alongside $\theta$ and w given observations of %\theta% and w.
 
 
 Enjoy reading.
