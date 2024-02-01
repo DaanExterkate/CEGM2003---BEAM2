@@ -9,7 +9,7 @@ This first notebook simulates beam behaviour of a Euler-Bernoulli beam. Section 
 2. Timoshenko Beam.
 This second notebook simulates beam behaviour of the Timoshenko beam. Two problems are distinguished, explained in separate sections. Section 2.1 solves the so-called Timoshenko forward problem. In this problem a PINN is build predicting $\theta$ and w given boundary and initial conditions. Section 2.2 deals with the Timoshenko Inverse problem. In this problem a PINN is build predicting the force function g(x,t) alongside $\theta$ and w given observations of $\theta$ and w.
 
-To execute the code, clone or download the notebooks and run them, preverably on a GPU. For more information about the benefits of PINN, see below.
+To execute the code, clone or download the notebooks and run them. Expect a run time of tens of minutes or more on a regular GPU (from google colab). For more information about the benefits of PINN, see below.
 
 Enjoy reading. For information 
 
